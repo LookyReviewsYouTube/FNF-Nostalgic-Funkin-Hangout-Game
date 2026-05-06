@@ -1,9 +1,9 @@
 {
-	"name": "Name",
-	"description": "Description",
+	"name": "A Nostalgic Funkin' Hangout Game",
+	"description": "A Nostalgic Hangout Game [REDUX] is the first entry to the Nostalgic Hangout Series published by Seeker on March 29th, 2026, being a remake of the original entry published on June 28th, 2023. When opening the game, the player is taken to an innocent-looking classic hangout home, which bears a direct resemblance to the infamous Happy Home in Robloxia map. However, as the game progresses, the player begins to uncover ominous truths about the platform hidden behind layers of concealment that no eyes were ever meant to lay sight upon, the consequences of which will send them down a tumbling, gaping abyss from which there is no return.",
 	"restart":false,
 	"runsGlobally": false,
 	"color": [170, 0, 255],
-	"discordRPC": "863222024192262205",
+	"discordRPC": "1501631167437344839",
 	"iconFramerate": 10
 }
