@@ -1,0 +1,1341 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Camera Modulo Change", "2", "1"],
+				["Change Scroll Speed", "0.78", "0.43"]
+			]
+		],
+		[
+			3428.57142857143,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.55,4,linear,In"],
+				["Change HUD Alpha", "true,0,16", "linear,In"]
+			]
+		],
+		[
+			5142.85714285714,
+			[
+				["Cinematic Bars", "true,0.22,8", "sine,InOut,camHUD"],
+				["Change Character Offset", "true,0,-120,-30", "17,sine,Out"],
+				["Change Stage Zoom", "false,false,true,false,true", "0.62,12,quad,Out"],
+				["Camera Modulo Change", "4", "0.1"],
+				["Idle Cam Movement", "15", "0"],
+				["Screen Coverer", "true,-16777216,0.45,20", "sine,In,camGame,front"]
+			]
+		],
+		[
+			5268.75,
+			[
+				["Lyrics", "Add Text,ALRIGHT HUMAN.", "-1,false"],
+				["Lyrics", "Set Font,papyrus", "-1,false"],
+				["Lyrics", "Enable text history (On, Off),", "-1,false"]
+			]
+		],
+		[
+			6273.21428571429,
+			[
+				["Lyrics", "Add Text,JUST FOLLOW MY LEAD...", "-1,false"]
+			]
+		],
+		[
+			7285.71428571429,
+			[
+				["Change Character Offset", "true,0,0,40", "27,sine,InOut"]
+			]
+		],
+		[
+			7714.28571428571,
+			[
+				["Lyrics", "Add Text,YOU'LL GET USED TO IT IN NO TIME!", "-1,false"],
+				["Lyrics", "Set Color,", "-809,false"],
+				["Change Stage Zoom", "false,false,true,false,false", "0.64,4,linear,In"]
+			]
+		],
+		[
+			8571.42857142857,
+			[
+				["Add Camera Zoom", "0.01", "0"]
+			]
+		],
+		[
+			9428.57142857143,
+			[
+				["Change HUD Alpha", "true,1,4", "sine,InOut"]
+			]
+		],
+		[
+			9736.60714285714,
+			[
+				["Lyrics", "Add Text,HU-", "-1,false"],
+				["Lyrics", "Set Color,", "-1,false"],
+				["Lyrics", "Enable text history (On, Off),", "-1,true"]
+			]
+		],
+		[
+			10285.7142857143,
+			[
+				["Idle Cam Movement", "0", "0"]
+			]
+		],
+		[
+			10392.8571428571,
+			[
+				["Change Character Offset", "false,0,120,30", "4,linear,In"],
+				["Change Stage Zoom", "false,false,true,false,false", "0.55,4,linear,In"]
+			]
+		],
+		[
+			10467.8571428571,
+			[
+				["Lyrics", "Add Text,O", "-1,true"]
+			]
+		],
+		[
+			11169.6428571428,
+			[
+				["Lyrics", "Add Text,OH...", "-1,false"],
+				["Lyrics", "Set Color,", "-1,false"]
+			]
+		],
+		[
+			12222.3214285714,
+			[
+				["Lyrics", "Add Text,I GUESS YOU CAN GO FIRST!", "-1,false"]
+			]
+		],
+		[
+			13714.2857142857,
+			[
+				["Cinematic Bars", "true,0.1,8", "circ,InOut,camHUD"],
+				["Lyrics", "Force remove all text,", "-1,false"],
+				["Change Character Offset", "false,1,0,-61.5", "4,quad,Out"],
+				["Add Camera Zoom", "0.02", "0"],
+				["Camera Modulo Change", "2", "1"],
+				["Change Stage Zoom", "false,true,false,false,false", "0.57,4,quint,In"],
+				["Lyrics", "Force remove all text,", "-1,false"],
+				["Screen Coverer", "true,-16777216,0,4", "linear,In,camGame,front"]
+			]
+		],
+		[
+			14142.8571428571,
+			[
+				["Change Character Offset", "false,0,0,-40", "4,linear,In"]
+			]
+		],
+		[
+			15428.5714285714,
+			[
+				["Cinematic Bars", "true,0.2,4", "sine,InOut,camHUD"],
+				["Change Character Offset", "false,1,120,170", "4,quart,In"],
+				["Change Stage Zoom", "false,true,false,false,true", "0.8,6,circ,InOut"],
+				["Add Camera Zoom", "0.02", "0"],
+				["Change Scroll Speed", "1", "0.86"]
+			]
+		],
+		[
+			15857.1428571429,
+			[
+				["Add Camera Zoom", "0.02", "0"]
+			]
+		],
+		[
+			16285.7142857143,
+			[
+				["Add Camera Zoom", "0.02", "0"]
+			]
+		],
+		[
+			16470.5357142857,
+			[
+				["Lyrics", "Add Text,HEH", "-1,false"]
+			]
+		],
+		[
+			16500,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.7,4,linear,In"],
+				["Play Animation", "singRIGHT", "dad"]
+			]
+		],
+		[
+			16725,
+			[
+				["Lyrics", "Add Text,HEH!", "-1,false"],
+				["Play Animation", "singRIGHT", "dad"]
+			]
+		],
+		[
+			17142.8571428571,
+			[
+				["Cinematic Bars", "false,0,4", "linear,In,camHUD"],
+				["Camera Flash", "false,-1", "4,camHUD"],
+				["HScript Call", "moveBones", "appear"],
+				["Lyrics", "Force remove all text,", "-1,false"],
+				["Camera Modulo Change", "1", "1"],
+				["Change Stage Zoom", "false,false,true,false,false", "0.55,4,linear,In"]
+			]
+		],
+		[
+			17250,
+			[
+				["Change Character Offset", "false,1,-130,-130", "4,linear,In"],
+				["Change Stage Zoom", "false,true,false,false,false", "0.63,4,linear,In"]
+			]
+		],
+		[
+			17357.1428571429,
+			[
+				["Change Character Offset", "false,1,-20,61.5", "4,quad,Out"]
+			]
+		],
+		[
+			23142.8571428571,
+			[
+				["Change Stage Zoom", "false,false,true,false,true", "0.7,2,quad,Out"]
+			]
+		],
+		[
+			24000,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.55,4,linear,In"]
+			]
+		],
+		[
+			24857.1428571429,
+			[
+				["Change Stage Zoom", "false,true,false,false,false", "0.73,4,linear,In"],
+				["Change Character Offset", "true,1,40,20", "4,linear,In"]
+			]
+		],
+		[
+			25285.7142857143,
+			[
+				["Change Stage Zoom", "false,true,false,false,false", "0.86,4,linear,In"],
+				["Change Character Offset", "false,1,80,40", "4,linear,In"]
+			]
+		],
+		[
+			25714.2857142857,
+			[
+				["Change Stage Zoom", "false,true,false,false,false", "0.63,4,linear,In"],
+				["Change Character Offset", "false,1,-120,-60", "4,linear,In"]
+			]
+		],
+		[
+			27857.1428571429,
+			[
+				["Change Stage Zoom", "false,true,false,false,false", "0.73,4,linear,In"]
+			]
+		],
+		[
+			28285.7142857143,
+			[
+				["Change Stage Zoom", "false,true,false,false,false", "0.63,4,linear,In"]
+			]
+		],
+		[
+			29142.8571428571,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.65,4,linear,In"]
+			]
+		],
+		[
+			29571.4285714286,
+			[
+				["Cinematic Bars", "true,0.2,5", "sine,InOut,camHUD"],
+				["Play Animation", "singLEFT", "dad"]
+			]
+		],
+		[
+			29576.7857142858,
+			[
+				["Lyrics", "Add Text,NYEH!", "-1,false"]
+			]
+		],
+		[
+			29801.7857142857,
+			[
+				["Lyrics", "Add Text,HEH!", "-1,false"],
+				["Lyrics", "Enable text history (On, Off),", "-1,false"],
+				["Play Animation", "singRIGHT", "dad"]
+			]
+		],
+		[
+			30000,
+			[
+				["Camera Modulo Change", "4", "0.1"]
+			]
+		],
+		[
+			30045.5357142857,
+			[
+				["Lyrics", "Add Text,HEH!!", "-1,false"],
+				["Play Animation", "singRIGHT", "dad"]
+			]
+		],
+		[
+			30230.3571428571,
+			[
+				["Lyrics", "Add Text,HEHH!!", "-1,false"],
+				["Play Animation", "singRIGHT", "dad"]
+			]
+		],
+		[
+			30466.0714285714,
+			[
+				["Lyrics", "Add Text,HEH!", "-1,false"],
+				["Play Animation", "singUP", "dad"]
+			]
+		],
+		[
+			30857.1428571429,
+			[
+				["Cinematic Bars", "true,0,4", "sine,InOut,camHUD"],
+				["Bloom Effect", "false,4,4", "linear,In"],
+				["Saturation Effect", "false,1.5,4", "linear,In"],
+				["Lyrics", "Force remove all text,", "-1,false"],
+				["Camera Modulo Change", "1", "1.1"],
+				["Change Stage Zoom", "false,false,true,false,true", "0.55,4,quad,In"]
+			]
+		],
+		[
+			30964.2857142857,
+			[
+				["Bloom Effect", "true,1,4", "quad,Out"],
+				["Saturation Effect", "true,1,4", "quad,Out"]
+			]
+		],
+		[
+			31714.2857142857,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.6,4,linear,In"]
+			]
+		],
+		[
+			32142.8571428571,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.65,4,linear,In"]
+			]
+		],
+		[
+			32571.4285714286,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.55,4,linear,In"]
+			]
+		],
+		[
+			33428.5714285714,
+			[
+				["Change Scroll Speed", "0.67", "0.11"],
+				["Change Stage Zoom", "false,false,true,false,false", "0.55,4,linear,In"],
+				["Saturation Effect", "false,0.2,4", "linear,In"]
+			]
+		],
+		[
+			33642.8571428571,
+			[
+				["Change Scroll Speed", "1.11", "0.32"],
+				["Saturation Effect", "true,1,4", "sine,InOut"]
+			]
+		],
+		[
+			34285.7142857143,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.6,4,linear,In"]
+			]
+		],
+		[
+			36000,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.65,4,linear,In"]
+			]
+		],
+		[
+			37285.7142857143,
+			[
+				["Change Stage Zoom", "false,false,true,false,true", "0.74,4,cube,In"]
+			]
+		],
+		[
+			37714.2857142857,
+			[
+				["Saturation Effect", "false,0.2,4", "linear,In"]
+			]
+		],
+		[
+			37928.5714285714,
+			[
+				["Saturation Effect", "true,1,6", "quad,Out"]
+			]
+		],
+		[
+			38571.4285714286,
+			[
+				["Change Stage Zoom", "false,true,false,false,false", "0.73,4,linear,In"],
+				["Change Character Offset", "true,1,40,20", "4,linear,In"]
+			]
+		],
+		[
+			39000,
+			[
+				["Change Stage Zoom", "false,true,false,false,false", "0.86,4,linear,In"],
+				["Change Character Offset", "false,1,80,40", "4,linear,In"]
+			]
+		],
+		[
+			39428.5714285714,
+			[
+				["Change Stage Zoom", "false,true,false,false,false", "0.63,4,linear,In"],
+				["Change Character Offset", "false,1,-120,-60", "4,linear,In"]
+			]
+		],
+		[
+			39857.1428571429,
+			[
+				["Change Character Offset", "false,1,100,40", "4,linear,In"],
+				["Change Stage Zoom", "false,true,false,false,false", "0.77,4,quad,In"]
+			]
+		],
+		[
+			40285.7142857143,
+			[
+				["Change Character Offset", "false,1,40,30", "4,linear,In"],
+				["Change Stage Zoom", "false,true,false,false,false", "0.72,4,linear,In"]
+			]
+		],
+		[
+			41142.8571428572,
+			[
+				["Change Character Offset", "false,0,-100,-30", "4,linear,In"]
+			]
+		],
+		[
+			42964.2857142857,
+			[
+				["Change Character Offset", "false,0,100,30", "4,linear,In"]
+			]
+		],
+		[
+			44571.4285714286,
+			[
+				["HScript Call", "moveBones", ""],
+				["Cinematic Bars", "true,0.15,4", "sine,InOut,camHUD"],
+				["Change Scroll Speed", "0.94", "0.75"],
+				["Camera Flash", "false,-1", "8,camHUD"],
+				["Contrast Effect", "true,1.15,4", "quad,Out"],
+				["Camera Modulo Change", "2", "0.8"],
+				["Change Stage Zoom", "false,false,true,false,true", "0.6,8,cube,Out"],
+				["Saturation Effect", "true,0.8,4", "linear,In"],
+				["Bloom Effect", "true,1.2,4", "linear,In"],
+				["Screen Vignette", "true,0.4,0.4", "4,linear,In"]
+			]
+		],
+		[
+			44678.5714285714,
+			[
+				["Change Character Offset", "false,0,-100,-30", "4,linear,In"]
+			]
+		],
+		[
+			44785.7142857143,
+			[
+				["Change Character Offset", "false,1,-30,-35", "4,linear,In"]
+			]
+		],
+		[
+			45000,
+			[
+				["Change Stage Zoom", "false,true,false,false,false", "0.6,4,linear,In"]
+			]
+		],
+		[
+			51428.5714285715,
+			[
+				["Change Character Offset", "false,1,-40,20", "4,linear,In"]
+			]
+		],
+		[
+			56571.4285714286,
+			[
+				["Change Stage Zoom", "false,false,true,false,true", "0.6,6,cube,In"]
+			]
+		],
+		[
+			57428.5714285714,
+			[
+				["Change Stage Zoom", "false,false,true,false,true", "0.75,7,quart,In"]
+			]
+		],
+		[
+			58285.7142857143,
+			[
+				["Camera Flash", "false,-1", "3,camHUD"],
+				["HScript Call", "moveBones", "appear"],
+				["Change Scroll Speed", "1.11", "0"],
+				["Bloom Effect", "false,5,8", "quad,Out"],
+				["Saturation Effect", "false,1.7,4", "linear,In"],
+				["Contrast Effect", "false,1,4", "linear,In"],
+				["Character Ecco", "1,-14532174,10", "0.7,1.3,middle"],
+				["Camera Modulo Change", "1", "1.7"],
+				["Change Stage Zoom", "false,false,true,false,true", "0.6,2,quint,In"],
+				["Change Character Offset", "true,0,30,10", "6,quad,Out"],
+				["Screen Vignette", "false,0.2,0.2", "4,linear,In"],
+				["Cinematic Bars", "false,0,4", "linear,In,camHUD"]
+			]
+		],
+		[
+			58392.8571428571,
+			[
+				["Saturation Effect", "true,1,8", "quad,Out"],
+				["Bloom Effect", "true,1.3,8", "quad,Out"]
+			]
+		],
+		[
+			58500,
+			[
+				["Change Character Offset", "false,1,-10,-45", "4,linear,In"]
+			]
+		],
+		[
+			58714.2857142857,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.76,4,linear,In"]
+			]
+		],
+		[
+			59357.1428571429,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.63,2,sine,In"]
+			]
+		],
+		[
+			61285.7142857143,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.7,4,quad,In"]
+			]
+		],
+		[
+			61714.2857142857,
+			[
+				["Change Stage Zoom", "false,true,false,false,false", "0.7,4,linear,In"],
+				["Change Character Offset", "false,1,60,40", "4,linear,In"],
+				["Change Stage Zoom", "false,false,true,false,false", "0.6,2,quad,In"]
+			]
+		],
+		[
+			62357.1428571429,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.7,4,quad,In"]
+			]
+		],
+		[
+			63428.5714285714,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.6,4,quad,In"]
+			]
+		],
+		[
+			64071.4285714286,
+			[
+				["HScript Call", "mortoZoom", ".79, .2"]
+			]
+		],
+		[
+			64714.2857142857,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.72,4,quad,In"]
+			]
+		],
+		[
+			65142.8571428571,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.6,1,quad,In"]
+			]
+		],
+		[
+			66428.5714285714,
+			[
+				["Change Stage Zoom", "false,false,true,false,true", "0.7,1,quad,In"]
+			]
+		],
+		[
+			66857.1428571429,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.6,4,quad,In"]
+			]
+		],
+		[
+			68142.8571428571,
+			[
+				["Change Stage Zoom", "false,false,true,false,true", "0.68,2,cube,In"]
+			]
+		],
+		[
+			68571.4285714286,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.6,4,quad,In"]
+			]
+		],
+		[
+			70714.2857142857,
+			[
+				["Change Stage Zoom", "false,false,true,false,false", "0.75,4,quad,In"]
+			]
+		],
+		[
+			71785.7142857143,
+			[
+				["Change Character Offset", "false,1,0,-10", "4,linear,In"]
+			]
+		],
+		[
+			72000,
+			[
+				["Add Camera Zoom", "0.02", "0"],
+				["Change Scroll Speed", "0.48", "0.11"],
+				["Saturation Effect", "false,0.2,4", "linear,In"]
+			]
+		],
+		[
+			72214.2857142857,
+			[
+				["Change Scroll Speed", "1.11", "0.96"],
+				["Saturation Effect", "true,1,4", "sine,InOut"]
+			]
+		],
+		[
+			72428.5714285714,
+			[
+				["Change Stage Zoom", "false,true,false,false,false", "0.8,4,linear,In"]
+			]
+		],
+		[
+			73071.4285714286,
+			[
+				["Change Stage Zoom", "false,true,false,false,false", "0.7,4,linear,In"]
+			]
+		],
+		[
+			73714.2857142857,
+			[
+				["Change Stage Zoom", "false,true,false,false,true", "0.65,1,circ,In"]
+			]
+		],
+		[
+			75000,
+			[
+				["Change Stage Zoom", "false,true,false,false,false", "0.75,4,linear,In"],
+				["Change Character Offset", "false,1,80,40", "4,linear,In"]
+			]
+		],
+		[
+			75428.5714285714,
+			[
+				["Change Stage Zoom", "false,true,false,false,false", "0.65,4,linear,In"],
+				["Change Character Offset", "false,1,-80,-40", "4,linear,In"]
+			]
+		],
+		[
+			76071.4285714286,
+			[
+				["Change Stage Zoom", "false,true,false,false,false", "0.8,4,linear,In"]
+			]
+		],
+		[
+			77142.8571428571,
+			[
+				["Change Stage Zoom", "false,true,false,false,false", "0.7,4,linear,In"]
+			]
+		],
+		[
+			78857.1428571429,
+			[
+				["Cinematic Bars", "true,0.2,4", "sine,InOut,camHUD"],
+				["Lyrics", "Add Text,YOU'RE DOING GREAT HUMAN!", "-1,false"],
+				["Lyrics", "Enable text history (On, Off),", "-1,false"],
+				["Change Character Offset", "true,0,-60,0", "4,linear,In"],
+				["Change Stage Zoom", "true,false,false,false,true", "0.5,4,quart,Out"],
+				["Screen Coverer", "true,-16777216,0.45,8", "sine,InOut,camGame,front"]
+			]
+		],
+		[
+			80357.1428571429,
+			[
+				["Lyrics", "Add Text,NOW STAY RIGHT THERE WHILE I-", "-1,false"]
+			]
+		],
+		[
+			81750,
+			[
+				["Lyrics", "Add Text,CAPTURE YOU!", "-1,false"]
+			]
+		],
+		[
+			82285.7142857143,
+			[
+				["Change Character Offset", "true,0,0,-160", "4,expo,In"]
+			]
+		],
+		[
+			82500,
+			[
+				["Lyrics", "Add Text,NYEH", "-1,false"],
+				["Lyrics", "Enable text history (On, Off),", "-1,false"],
+				["Change Stage Zoom", "false,false,true,false,false", "0.6,17,quad,In"]
+			]
+		],
+		[
+			82821.4285714286,
+			[
+				["Lyrics", "Add Text,NYEH", "-1,false"],
+				["Lyrics", "Enable text history (On, Off),", "-1,false"]
+			]
+		],
+		[
+			83124.1071428571,
+			[
+				["Lyrics", "Add Text,HEH-", "-1,false"]
+			]
+		],
+		[
+			83250,
+			[
+				["Lyrics", "Add Text,HEHH-", "-1,false"]
+			]
+		],
+		[
+			83418.75,
+			[
+				["Lyrics", "Add Text,HE-", "-1,false"]
+			]
+		],
+		[
+			83571.4285714286,
+			[
+				["Lyrics", "Add Text,HEEH-", "-1,false"]
+			]
+		],
+		[
+			83678.5714285714,
+			[
+				["Lyrics", "Add Text,HA-", "-1,false"]
+			]
+		],
+		[
+			83742.8571428571,
+			[
+				["Lyrics", "Add Text,HAA-", "-1,false"]
+			]
+		],
+		[
+			83892.8571428571,
+			[
+				["Lyrics", "Add Text,HAAA-", "-1,false"]
+			]
+		],
+		[
+			84000,
+			[
+				["Lyrics", "Add Text,HAA-", "-1,false"]
+			]
+		],
+		[
+			84195.5357142857,
+			[
+				["Lyrics", "Add Text,HA-", "-1,false"]
+			]
+		],
+		[
+			84366.9642857142,
+			[
+				["Lyrics", "Add Text,HAAAA!!", "-1,false"]
+			]
+		],
+		[
+			84857.1428571429,
+			[
+				["Lyrics", "Force remove all text,", "-1,false"]
+			]
+		],
+		[
+			85714.2857142857,
+			[
+				["Change HUD Alpha", "false,0,8", "sine,InOut"],
+				["HScript Call", "changeToSans", ""],
+				["Camera Modulo Change", "999999", "0.1"],
+				["Bloom Effect", "false,3,4", "linear,In"],
+				["Screen Vignette", "false,0.1,0.1", "4,linear,In"]
+			]
+		],
+		[
+			85821.4285714286,
+			[
+				["Bloom Effect", "true,1,4", "quad,In"]
+			]
+		],
+		[
+			89142.8571428571,
+			[
+				["HScript Call", "switchToSans", ""],
+				["Update Pause Infos", "-1,kinemorto_2,* SANS 43 ATK 36 DEF\\n* His sins are crawling up his spine.\\n* Papyrus' brother.", "0,0"],
+				["Idle Cam Movement", "18", "0"],
+				["Saturation Effect", "false,1.4,4", "linear,In"],
+				["Screen Vignette", "false,1.2,1.2", "4,linear,In"],
+				["Cinematic Bars", "false,0.3,4", "linear,In,camHUD"]
+			]
+		],
+		[
+			89250,
+			[
+				["Change Character Offset", "false,0,-20,10", "4,linear,In"]
+			]
+		],
+		[
+			89571.4285714286,
+			[
+				["Change Character Offset", "false,0,-120,60", "4,linear,In"],
+				["Change Stage Zoom", "false,false,true,false,false", "0.9,4,linear,In"]
+			]
+		],
+		[
+			89678.5714285714,
+			[
+				["Change Character Offset", "false,0,-150,140", "4,linear,In"],
+				["Change Stage Zoom", "false,false,true,false,false", "0.82,4,linear,In"]
+			]
+		],
+		[
+			89785.7142857143,
+			[
+				["Change Character Offset", "false,0,0,20", "4,linear,In"]
+			]
+		],
+		[
+			91071.4285714286,
+			[
+				["Change Character Offset", "false,1,0,-25", "4,linear,In"],
+				["Change Stage Zoom", "false,true,false,false,false", "0.86,4,linear,In"]
+			]
+		],
+		[
+			91928.5714285714,
+			[
+				["Lyrics", "Set Font,pixel-comic", "-1,false"],
+				["Lyrics", "Set Size,32", "-1,false"]
+			]
+		],
+		[
+			92571.4285714286,
+			[
+				["Lyrics", "Add Text,heh heh heh heh heh...", "-1,false"],
+				["Play Animation", "prevoice", "dad"]
+			]
+		],
+		[
+			93321.4285714286,
+			[
+				["Saturation Effect", "false,2,4", "linear,In"]
+			]
+		],
+		[
+			93428.5714285714,
+			[
+				["Lyrics", "Force remove all text,", "-1,false"],
+				["Change Stage Zoom", "false,false,true,false,true", "0.76,36,quad,Out"],
+				["Screen Vignette", "false,1.5,1.5", "4,linear,In"],
+				["Screen Coverer", "true,-16777216,0.11,32", "quint,Out,camHUD,back"]
+			]
+		],
+		[
+			93642.8571428571,
+			[
+				["Screen Vignette", "true,1.3,1.3", "12,quad,Out"],
+				["Cinematic Bars", "true,0.2,4", "quad,Out,camHUD"],
+				["Change Character Offset", "true,0,0,-20", "4,quad,Out"],
+				["Saturation Effect", "true,1.4,4", "quad,Out"]
+			]
+		],
+		[
+			94285.7142857143,
+			[
+				["Change Scroll Speed", "1", "0"]
+			]
+		],
+		[
+			97711.6071428571,
+			[
+				["Play Animation", "voiceline", "dad"],
+				["Change Character Offset", "false,0,140,-25", "4,linear,In"],
+				["Change Stage Zoom", "false,false,true,false,true", "0.74,4,linear,In"]
+			]
+		],
+		[
+			97714.2857142857,
+			[
+				["Lyrics", "Add Text,*you gotta be faster next time...", "-1,false"],
+				["Idle Cam Movement", "0", "0"]
+			]
+		],
+		[
+			99857.1428571429,
+			[
+				["Change HUD Alpha", "true,1,4", "quad,In"]
+			]
+		],
+		[
+			99964.2857142857,
+			[
+				["Change Character Offset", "false,1,170,145", "4,linear,In"],
+				["Change Stage Zoom", "false,true,false,false,false", "0.96,4,linear,In"]
+			]
+		],
+		[
+			100285.714285714,
+			[
+				["Lyrics", "Force remove all text,", "-1,false"]
+			]
+		],
+		[
+			106285.714285714,
+			[
+				["Change Stage Zoom", "false,true,false,false,false", "1.2,4,linear,In"],
+				["Add Camera Zoom", "0.03", "0"]
+			]
+		],
+		[
+			106714.285714286,
+			[
+				["Change Stage Zoom", "false,false,true,false,true", "0.65,8,linear,Out"],
+				["Change Character Offset", "false,0,120,-130", "8,quad,In"]
+			]
+		],
+		[
+			106928.571428571,
+			[
+				["Change Character Offset", "false,0,0,-5", "4,linear,In"]
+			]
+		],
+		[
+			107142.857142857,
+			[
+				["Cinematic Bars", "false,0,4", "linear,In,camGame"],
+				["Camera Flash", "false,-1", "4,camHUD"],
+				["Character Ecco", "1,-14597966,10", "0.7,1.3,middle"],
+				["HScript Call", "moveBones", "appear"],
+				["Camera Modulo Change", "9999", "1"],
+				["Change Character Offset", "false,1,0,-60", "4,linear,In"],
+				["Change Stage Zoom", "false,true,true,false,false", "0.7,4,linear,In"],
+				["Add Camera Zoom", "0.03", "0"],
+				["Screen Vignette", "true,0.3,0.3", "4,linear,In"],
+				["Saturation Effect", "true,1,4", "linear,In"]
+			]
+		],
+		[
+			107464.285714286,
+			[
+				["Change Character Offset", "false,1,-170,-135", "4,linear,In"]
+			]
+		],
+		[
+			107785.714285714,
+			[
+				["Add Camera Zoom", "0.03", "0"]
+			]
+		],
+		[
+			108428.571428571,
+			[
+				["Add Camera Zoom", "0.03", "0"]
+			]
+		],
+		[
+			109071.428571429,
+			[
+				["Add Camera Zoom", "0.03", "0"]
+			]
+		],
+		[
+			109714.285714286,
+			[
+				["Add Camera Zoom", "0.03", "0"],
+				["Change Stage Zoom", "false,false,true,false,false", "0.78,4,linear,In"]
+			]
+		],
+		[
+			110142.857142857,
+			[
+				["Add Camera Zoom", "0.03", "0"]
+			]
+		],
+		[
+			110571.428571429,
+			[
+				["Add Camera Zoom", "0.03", "0"],
+				["Change Stage Zoom", "false,false,true,false,false", "0.7,4,linear,In"]
+			]
+		],
+		[
+			111214.285714286,
+			[
+				["Add Camera Zoom", "0.03", "0"]
+			]
+		],
+		[
+			111857.142857143,
+			[
+				["Add Camera Zoom", "0.03", "0"]
+			]
+		],
+		[
+			112285.714285714,
+			[
+				["Change Stage Zoom", "false,true,false,false,true", "1,7,cube,In"],
+				["Change Character Offset", "true,1,0,80", "4,linear,In"]
+			]
+		],
+		[
+			113142.857142857,
+			[
+				["Add Camera Zoom", "0.03", "0"],
+				["Change Stage Zoom", "false,true,false,false,false", "0.7,4,linear,In"],
+				["Change Character Offset", "false,1,0,-80", "4,linear,In"]
+			]
+		],
+		[
+			114000,
+			[
+				["Add Camera Zoom", "0.03", "0"],
+				["Change Stage Zoom", "false,false,true,false,false", "0.78,4,linear,In"]
+			]
+		],
+		[
+			114642.857142857,
+			[
+				["Add Camera Zoom", "0.03", "0"]
+			]
+		],
+		[
+			115285.714285714,
+			[
+				["Add Camera Zoom", "0.03", "0"]
+			]
+		],
+		[
+			115928.571428571,
+			[
+				["Add Camera Zoom", "0.03", "0"]
+			]
+		],
+		[
+			116142.857142857,
+			[
+				["Change Stage Zoom", "false,false,true,false,true", "0.7,8,circ,In"]
+			]
+		],
+		[
+			116571.428571429,
+			[
+				["Add Camera Zoom", "0.03", "0"]
+			]
+		],
+		[
+			117428.571428571,
+			[
+				["Add Camera Zoom", "0.03", "0"]
+			]
+		],
+		[
+			118071.428571429,
+			[
+				["Add Camera Zoom", "0.03", "0"]
+			]
+		],
+		[
+			118714.285714286,
+			[
+				["Add Camera Zoom", "0.03", "0"]
+			]
+		],
+		[
+			119357.142857143,
+			[
+				["Add Camera Zoom", "0.03", "0"]
+			]
+		],
+		[
+			119571.428571429,
+			[
+				["Change Stage Zoom", "false,true,true,false,false", "0.8,4,linear,In"]
+			]
+		],
+		[
+			120000,
+			[
+				["Add Camera Zoom", "0.03", "0"]
+			]
+		],
+		[
+			120857.142857143,
+			[
+				["Cinematic Bars", "true,0.15,4", "circ,InOut,camHUD"],
+				["Change Stage Zoom", "false,true,true,false,true", "0.56,4,circ,InOut"],
+				["Change Character Offset", "true,0,105,-4", "4,linear,In"],
+				["Screen Vignette", "true,1.1,1.1", "8,quad,Out"],
+				["Bloom Effect", "true,1.3,4", "quad,Out"],
+				["Saturation Effect", "true,1.4,4", "quad,Out"]
+			]
+		],
+		[
+			120964.285714286,
+			[
+				["Change Character Offset", "false,1,-40,-20", "4,linear,In"]
+			]
+		],
+		[
+			121285.714285714,
+			[
+				["Add Camera Zoom", "0.015", "0"]
+			]
+		],
+		[
+			122142.857142857,
+			[
+				["Add Camera Zoom", "0.015", "0"]
+			]
+		],
+		[
+			123000,
+			[
+				["Add Camera Zoom", "0.015", "0"]
+			]
+		],
+		[
+			123535.714285714,
+			[
+				["Add Camera Zoom", "0.015", "0"]
+			]
+		],
+		[
+			123857.142857143,
+			[
+				["Add Camera Zoom", "0.015", "0"]
+			]
+		],
+		[
+			124714.285714286,
+			[
+				["Add Camera Zoom", "0.015", "0"]
+			]
+		],
+		[
+			125571.428571429,
+			[
+				["Add Camera Zoom", "0.015", "0"]
+			]
+		],
+		[
+			126428.571428571,
+			[
+				["Add Camera Zoom", "0.015", "0"]
+			]
+		],
+		[
+			126964.285714286,
+			[
+				["Add Camera Zoom", "0.015", "0"]
+			]
+		],
+		[
+			127285.714285714,
+			[
+				["Add Camera Zoom", "0.015", "0"]
+			]
+		],
+		[
+			128142.857142857,
+			[
+				["Add Camera Zoom", "0.015", "0"]
+			]
+		],
+		[
+			129000,
+			[
+				["Add Camera Zoom", "0.015", "0"]
+			]
+		],
+		[
+			129857.142857143,
+			[
+				["Add Camera Zoom", "0.015", "0"]
+			]
+		],
+		[
+			130392.857142857,
+			[
+				["Add Camera Zoom", "0.015", "0"]
+			]
+		],
+		[
+			130714.285714286,
+			[
+				["Add Camera Zoom", "0.015", "0"]
+			]
+		],
+		[
+			131571.428571429,
+			[
+				["Add Camera Zoom", "0.02", "0"]
+			]
+		],
+		[
+			132428.571428571,
+			[
+				["Add Camera Zoom", "0.015", "0"]
+			]
+		],
+		[
+			132857.142857143,
+			[
+				["Add Camera Zoom", "0.1", "0"],
+				["Add Camera Zoom", "0", "0.01"],
+				["HScript Call", "epicimpact", ""]
+			]
+		],
+		[
+			133285.714285714,
+			[
+				["Add Camera Zoom", "0.02", "0"]
+			]
+		],
+		[
+			134142.857142857,
+			[
+				["Add Camera Zoom", "0.02", "0"]
+			]
+		],
+		[
+			134571.428571429,
+			[
+				["Change Stage Zoom", "false,true,true,false,true", "0.66,2,quint,Out"],
+				["Change Character Offset", "false,0,0,65", "4,linear,In"],
+				["Change Character Offset", "false,1,0,65", "4,linear,In"]
+			]
+		],
+		[
+			144857.142857143,
+			[
+				["Add Camera Zoom", "0.02", "0"],
+				["Add Camera Zoom", "0.02", "0"]
+			]
+		],
+		[
+			145178.571428571,
+			[
+				["Add Camera Zoom", "0.02", "0"]
+			]
+		],
+		[
+			145500,
+			[
+				["Add Camera Zoom", "0.02", "0"]
+			]
+		],
+		[
+			145714.285714286,
+			[
+				["Add Camera Zoom", "0.02", "0"]
+			]
+		],
+		[
+			146035.714285714,
+			[
+				["Add Camera Zoom", "0.02", "0"]
+			]
+		],
+		[
+			146357.142857143,
+			[
+				["Add Camera Zoom", "0.02", "0"]
+			]
+		],
+		[
+			146571.428571429,
+			[
+				["Add Camera Zoom", "0.02", "0"]
+			]
+		],
+		[
+			147428.571428571,
+			[
+				["Screen Vignette", "true,0.1,0.1", "4,sine,InOut"],
+				["Cinematic Bars", "true,0.1,4", "sine,InOut,camHUD"]
+			]
+		],
+		[
+			148285.714285714,
+			[
+				["Cinematic Bars", "true,0.2,4", "sine,InOut,camHUD"],
+				["HScript Call", "moveBones", ""],
+				["Screen Vignette", "true,1.15,1.15", "4,sine,InOut"],
+				["HScript Call", "epicimpact", ""],
+				["Change Character Offset", "false,0,-90,25", "4,linear,In"],
+				["Add Camera Zoom", "0.08", "0"],
+				["Change Character Offset", "false,1,-10,33", "4,linear,In"],
+				["Change Stage Zoom", "false,true,true,false,true", "0.7,8,quad,Out"]
+			]
+		],
+		[
+			148392.857142857,
+			[
+				["Screen Coverer", "true,-16777216,0.25,3", "quad,Out,camHUD,back"],
+				["Saturation Effect", "true,2,4", "sine,In"]
+			]
+		],
+		[
+			175714.285714286,
+			[
+				["Camera Flash", "false,-1", "8,camHUD"]
+			]
+		],
+		[
+			176142.857142857,
+			[
+				["Change HUD Alpha", "true,0,32", "sine,InOut"]
+			]
+		],
+		[
+			176571.428571429,
+			[
+				["HScript Call", "bgFog", ""],
+				["Change Stage Zoom", "false,false,true,false,true", "0.56,64,quad,Out"]
+			]
+		],
+		[
+			177000,
+			[
+				["Screen Vignette", "true,0.8,0.8", "60,sine,InOut"]
+			]
+		],
+		[
+			189241.071428571,
+			[
+				["HScript Call", "papsDies", ""]
+			]
+		],
+		[
+			190714.285714286,
+			[
+				["Cinematic Bars", "true,0.1,6", "sine,InOut,camHUD"]
+			]
+		],
+		[
+			191571.428571429,
+			[
+				["Cinematic Bars", "true,1.1,4", "sine,In,camHUD"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

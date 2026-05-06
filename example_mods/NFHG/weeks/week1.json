@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Colon 3",
+			"Postman",
+			[
+				255,
+				233,
+				113
+			]
+		],
+		[
+			"Kinemorto",
+			"Postman",
+			[
+				255,
+				233,
+				113
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Your Local Postman!",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
