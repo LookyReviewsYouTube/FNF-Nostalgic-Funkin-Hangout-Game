@@ -1,0 +1,27 @@
+Hello, first of all, thank you for downloading this,
+I really tried to make this easy to use, well let's get to the point.
+how is this used?
+well it's simple, this is based on text documents in TXT format
+Well, to adjust the lyrics you must make a TXT file in the data folder of your song
+that should be called 'lyricalsettings' and in this file you can put the following properties:
+
+Font = the font you want to appear in the lyrics
+Size = the size of the lyrics
+Y position = the position of the lyrics in Y
+
+You can see an example in the data/your-song folder so you understand better
+
+now with icon properties!!!
+You must make a text document in TXT that must be called the same as the icon but with -lyrics at the end,
+here is an example: icon-bf-lyrics
+
+Now in the TXT file you can set the following properties when using that icon for lyrics:
+
+color HEX = the color of the lyrics (the color must be put in hexadecimal)
+X position = the position of the icon in X
+Y position = the position of the icon in Y
+
+you can find an example in images/icons so you understand better
+
+well that's all, I wanted to thank SkyanUltra for the original idea of ​​Script, I just made it easier to use and made some changes to it
+by the way if you are going to use this please give me credits, that's all, until next time!!!

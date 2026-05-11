@@ -1,0 +1,5 @@
+Bf Lyrics!!!
+
+value1 = Text
+value2 = Icon (images/icons)
+if value 1 and value 2 are blank = Lyrics disappear
