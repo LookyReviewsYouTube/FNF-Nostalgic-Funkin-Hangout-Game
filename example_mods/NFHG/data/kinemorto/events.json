@@ -3,8 +3,19 @@
 		[
 			0,
 			[
-				["Camera Modulo Change", "2", "1"],
-				["Change Scroll Speed", "0.78", "0.43"]
+				["lyrics_dad", "Hey welcome home!", "postman"]
+			]
+		],
+		[
+			1714.28571428571,
+			[
+				["lyrics_dad", "I'm your postman!", "postman"]
+			]
+		],
+		[
+			3321.42857142857,
+			[
+				["lyrics_dad", "Nice to meet ya!", "postman"]
 			]
 		],
 		[
@@ -12,6 +23,12 @@
 			[
 				["Change Stage Zoom", "false,false,true,false,false", "0.55,4,linear,In"],
 				["Change HUD Alpha", "true,0,16", "linear,In"]
+			]
+		],
+		[
+			4285.71428571429,
+			[
+				["lyrics_dad", "*giggles*", "postman"]
 			]
 		],
 		[
@@ -34,6 +51,12 @@
 			]
 		],
 		[
+			5464.28571428571,
+			[
+				["lyrics_dad", "This town has way of...", "postman"]
+			]
+		],
+		[
 			6273.21428571429,
 			[
 				["Lyrics", "Add Text,JUST FOLLOW MY LEAD...", "-1,false"]
@@ -42,7 +65,7 @@
 		[
 			7285.71428571429,
 			[
-				["Change Character Offset", "true,0,0,40", "27,sine,InOut"]
+				["lyrics_dad", "Remembering it's players.", "postman"]
 			]
 		],
 		[
@@ -57,6 +80,12 @@
 			8571.42857142857,
 			[
 				["Add Camera Zoom", "0.01", "0"]
+			]
+		],
+		[
+			9214.28571428571,
+			[
+				["lyrics_dad", "Nostalgic isn't it?", "postman"]
 			]
 		],
 		[
@@ -90,6 +119,12 @@
 			10467.8571428571,
 			[
 				["Lyrics", "Add Text,O", "-1,true"]
+			]
+		],
+		[
+			10714.2857142857,
+			[
+				["lyrics_dad", "", ""]
 			]
 		],
 		[
@@ -488,6 +523,7 @@
 		[
 			58285.7142857143,
 			[
+				["lyrics_bf", "Yeah!", "bf"],
 				["Hey!", "BF", ""]
 			]
 		],
@@ -505,9 +541,9 @@
 			]
 		],
 		[
-			58714.2857142857,
+			58714.2857142858,
 			[
-				["Change Stage Zoom", "false,false,true,false,false", "0.76,4,linear,In"]
+				["lyrics_bf", "", ""]
 			]
 		],
 		[
