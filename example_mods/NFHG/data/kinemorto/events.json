@@ -818,6 +818,18 @@
 			]
 		],
 		[
+			87428.5714285714,
+			[
+				["lyrics_dad", "Player!", "postman"]
+			]
+		],
+		[
+			88928.5714285714,
+			[
+				["lyrics_dad", "", ""]
+			]
+		],
+		[
 			89142.8571428571,
 			[
 				["HScript Call", "switchToSans", ""],
@@ -862,6 +874,12 @@
 			]
 		],
 		[
+			91714.2857142857,
+			[
+				["lyrics_dad", "What have you done", "postman"]
+			]
+		],
+		[
 			91928.5714285714,
 			[
 				["Lyrics", "Set Font,pixel-comic", "-1,false"],
@@ -900,9 +918,21 @@
 			]
 		],
 		[
+			93750,
+			[
+				["lyrics_dad", "", ""]
+			]
+		],
+		[
 			94285.7142857143,
 			[
 				["Change Scroll Speed", "1", "0"]
+			]
+		],
+		[
+			96428.5714285714,
+			[
+				["lyrics_dad", "You don't understand", "postman"]
 			]
 		],
 		[
@@ -921,6 +951,12 @@
 			]
 		],
 		[
+			98035.7142857143,
+			[
+				["lyrics_dad", "You don't-", "postman"]
+			]
+		],
+		[
 			99857.1428571429,
 			[
 				["Change HUD Alpha", "true,1,4", "quad,In"]
@@ -934,9 +970,21 @@
 			]
 		],
 		[
+			100178.571428571,
+			[
+				["lyrics_dad", "I'm trying to protect you..", "postman"]
+			]
+		],
+		[
 			100285.714285714,
 			[
 				["Lyrics", "Force remove all text,", "-1,false"]
+			]
+		],
+		[
+			103178.571428571,
+			[
+				["lyrics_dad", "YOU’RE GOING down a path you CAN’T ESCAPE from", "postman"]
 			]
 		],
 		[
@@ -949,8 +997,7 @@
 		[
 			106714.285714286,
 			[
-				["Change Stage Zoom", "false,false,true,false,true", "0.65,8,linear,Out"],
-				["Change Character Offset", "false,0,120,-130", "8,quad,In"]
+				["lyrics_dad", "", ""]
 			]
 		],
 		[
@@ -1361,9 +1408,33 @@
 			]
 		],
 		[
+			182571.428571428,
+			[
+				["lyrics_dad", "I'm...", "postman"]
+			]
+		],
+		[
+			184607.142857143,
+			[
+				["lyrics_dad", "I'm...", "postman"]
+			]
+		],
+		[
+			187178.571428571,
+			[
+				["lyrics_dad", "C-c", "postman"]
+			]
+		],
+		[
+			188357.142857143,
+			[
+				["lyrics_dad", "Cold....", "postman"]
+			]
+		],
+		[
 			189241.071428571,
 			[
-				["HScript Call", "papsDies", ""]
+				["lyrics_dad", "", ""]
 			]
 		],
 		[
