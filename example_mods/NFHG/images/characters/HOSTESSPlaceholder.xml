@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HOSTESSPlaceholder.png">
+<SubTexture name="HOSTESSPlaceholder idle0000" x="0" y="0" width="382" height="555" frameX="-4" frameY="-34" frameWidth="406" frameHeight="615" />
+</TextureAtlas>
