@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PostmanDeer.png">
+<SubTexture name="PostmanDeer idle0000" x="0" y="0" width="3067" height="3000" frameX="-637" frameY="0" frameWidth="4625" frameHeight="3000" />
+</TextureAtlas>
