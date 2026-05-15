@@ -1,0 +1,53 @@
+{
+	"events": [
+		[
+			6000,
+			[
+				["lyrics_dad", "you genuinely..", "hostessplaceholder"]
+			]
+		],
+		[
+			7125,
+			[
+				["lyrics_dad", "GENUINELY pissed me off!..", "hostessplaceholder"]
+			]
+		],
+		[
+			9150,
+			[
+				["lyrics_bf", "I ate some cookies today! :D", "postman"]
+			]
+		],
+		[
+			11325,
+			[
+				["lyrics_bf", "and some lemonade!!", "postman"]
+			]
+		],
+		[
+			13350,
+			[
+				["lyrics_dad", "ARE YOU TWELVE?!", "hostessplaceholder"]
+			]
+		],
+		[
+			15000,
+			[
+				["lyrics_bf", "and then I played some video games!! ^^", "postman"]
+			]
+		],
+		[
+			18225,
+			[
+				["lyrics_bf", "*giggles*", "postman"]
+			]
+		],
+		[
+			19200,
+			[
+				["lyrics_bf", "", ""]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

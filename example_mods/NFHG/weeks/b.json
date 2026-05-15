@@ -1,0 +1,45 @@
+{
+	"storyName": "“There’s comfort in predictability, isn’t there?”",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"The Hostess",
+			"HostessPlaceholder",
+			[
+				255,
+				33,
+				53
+			]
+		],
+		[
+			"Stargazer",
+			"HostessPlaceholder",
+			[
+				255,
+				33,
+				53
+			]
+		],
+		[
+			"Unlikely Rivals",
+			"HostessPlaceholder",
+			[
+				255,
+				33,
+				53
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "The Hostess"
+}
